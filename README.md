@@ -1,5 +1,5 @@
 ## Hi there 👋
-Here's some content for my readme file.
+<p>My name is Nith Yogathas and I am a <em>web developer</em>. I look forward to learning as much as I can the rest of the semester!</p>
 
 <!--
 **nith-yoga/nith-yoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
